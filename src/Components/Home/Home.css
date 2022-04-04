@@ -19,5 +19,8 @@
 }
 
 .btn {
-    margin: 15px 576px
+    margin: 15px 600px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 5px;
 }

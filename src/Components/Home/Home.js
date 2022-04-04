@@ -7,7 +7,7 @@ import CustomLink from '../CustomLink/CustomLink';
 
 const Home = () => {
     return (
-        <div>
+        <div className='body'>
             <div className='product-container'>
                 <div className='text'>
                     <h3>WORLD SOCCER APPAREL & ACCESSORIES</h3>
