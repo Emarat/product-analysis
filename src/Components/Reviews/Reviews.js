@@ -1,14 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import CustomReviews from '../../Hook/CustomReviews';
 import UserReview from '../UserReview/UserReview';
 import './Reviews.css';
 
 const Reviews = () => {
-    const [reviews, setReviews] = useState([]);
-    useEffect(() => {
-        fetch('review.json')
-            .then(res => res.json())
-            .then(data => setReviews(data))
-    }, [])
+    const [reviews, setReviews] = CustomReviews();
     return (
         <div className='review-container'>
             {

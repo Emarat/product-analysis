@@ -1,6 +1,8 @@
 import React from 'react';
 import './Home.css';
 import jersey from '../../Jersey.jpg';
+import HomeReviewSection from '../HomeReviewSection/HomeReviewSection';
+import CustomLink from '../CustomLink/CustomLink';
 
 
 const Home = () => {
@@ -15,6 +17,13 @@ const Home = () => {
                     <img src={jersey} alt="" />
                 </div>
             </div>
+            <div className='homeuserreview'>
+                <h2>User Reviews</h2>
+                <HomeReviewSection></HomeReviewSection>
+            </div>
+            <button className='btn'>
+                <CustomLink to='/reviews'>See All Reviews</CustomLink>
+            </button>
         </div>
     );
 };

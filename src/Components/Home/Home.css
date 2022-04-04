@@ -1,13 +1,23 @@
-.product-container{
+.product-container {
     display: flex;
 }
-.product-container .text{
+
+.product-container .text {
     margin: 80px;
 }
-.product-container img{ 
+
+.product-container img {
     height: 300px;
     margin: 22px;
     border: 1px solid grey;
     border-radius: 5px;
-   
+
+}
+
+.homeuserreview h2 {
+    text-align: center;
+}
+
+.btn {
+    margin: 15px 576px
 }
