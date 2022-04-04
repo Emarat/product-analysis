@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1",
+    "name": "David",
+    "ratings": "4.5",
+    "text": "Good as expected"
+  },
+  {
+    "_id": "2",
+    "name": "Sondip",
+    "ratings": "4.9",
+    "text": "Highly Recomanded"
+  },
+  {
+    "_id": "3",
+    "name": "Lamichan",
+    "ratings": "2.9",
+    "text": "Waste Of Money"
+  },
+  {
+    "_id": "4",
+    "name": "Wishey",
+    "ratings": "4",
+    "text": "Not So Bad"
+  },
+  {
+    "_id": "5",
+    "name": "David",
+    "ratings": "4.50",
+    "text": "Get on time"
+  },
+  {
+    "_id": "6",
+    "name": "Chris",
+    "ratings": "5",
+    "text": "Same As Picture."
+  }
+]
