@@ -7,6 +7,7 @@ import Home from './Components/Home/Home';
 import Navbar from './Components/Navbar/Navbar';
 import Reviews from './Components/Reviews/Reviews';
 import NotFound from './Components/NotFound/NotFound';
+import UserReview from './Components/UserReview/UserReview';
 
 function App() {
   return (
