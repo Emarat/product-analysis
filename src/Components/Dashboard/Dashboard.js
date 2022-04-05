@@ -1,9 +1,13 @@
 import React from 'react';
+import LineCharts from '../LineCharts/LineCharts';
+import MixBarChart from '../MixBarChart/MixBarChart';
+import PieCharts from '../MixBarChart/MixBarChart';
 
 const Dashboard = () => {
     return (
         <div>
-            <h2>This is Dashboard Page</h2>
+            <LineCharts></LineCharts>
+            <MixBarChart></MixBarChart>
         </div>
     );
 };
