@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WORLD SOCCER APPAREL & ACCESSORIES
+Link: https://super-pithivier-f5a1ab.netlify.app
 
 ## Available Scripts
 
